@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("djboy.gif");
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+   font-weight: 500;
+
+}
+#userBox{
+    background-color: white;
+    position: sticky;
+   border-radius: 45px;
+   height: 70%;
+   width: 70%;
+   border-color: white;
+  /*transform: translate(20%,1300%);*/
+  transform: translate(23%,0%);
+}
+#chatLog{
+   /* background-color: aqua;*/
+    width: 40%;
+ 
+}
